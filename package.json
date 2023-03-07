@@ -1,0 +1,9 @@
+{
+  "name": "browser-extension-template",
+  "version": "1.0.0",
+  "description": "A template to build browser extension quickly.",
+  "main": "index.js",
+  "repository": "https://github.com/igoogolx/browser-extension-template.git",
+  "author": "igoogolx <27353191+igoogolx@users.noreply.github.com>",
+  "license": "MIT"
+}
